@@ -1,0 +1,12 @@
+{
+	"dialect": "mysql",
+	"dbname": "MSQDBT1",
+	"host": "localhost",
+	"port": "3306",
+	"accounts": {
+		"default": {
+			"account": "test",
+			"password": "test"
+		}
+	}
+}
